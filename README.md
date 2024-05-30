@@ -26,7 +26,7 @@ ___
 
 ___
 ## Introduction
-Welcome to MedixSphere : One portal for Holistic Health. This project aims to provide an integrated platform for managing patient records, scheduling appointments, and offering healthcare information via an AI chatbot service. It is designed to streamline operations for healthcare providers and offer an intuitive interface for the needful patients.
+Welcome to MedixSphere : One portal for Holistic Health. It is a healthcare web app where patients can book appointments with expert doctors across various specialties like cardiology, orthopedics, dentistry, and general healthcare. Users can register, log in, and create personalized accounts. An integrated AI chatbot addresses general health queries, providing recommendations based on the user's condition and data. This all-in-one platform streamlines patient interactions and care management.
 ___
 ### Features and Functionalities:
 * Patient Management: Record and manage patient details securely.
@@ -46,10 +46,10 @@ ___
 * Visual studio code
 ___
 ### Steps to follow for deployment of website :
-* built the whole project code in visual studio code
-* tested it on the live server.
-* after that installed git in system.
-* uploaded the project on my github repositry.
+* Built the whole project code in visual studio code
+* Tested it on the live server.
+* Then installed git in the system.
+* Uploaded the project on my github repositry.
 * Logged in to Azure portal and get access to try for free.
 * Select Azure storage accounts, click on create .
 * After creating it successfully, uploaded all project files on to it.
