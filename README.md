@@ -1,4 +1,4 @@
-#**✨MedixSphere-Your Portal to Holistic Health✨**
+# **✨MedixSphere-Your Portal to Holistic Health✨**
 
 
 this is a web based application developed for health care facilities.
