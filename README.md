@@ -32,10 +32,17 @@ ___
 * **Patient Registration and Login:** Create and manage personalized accounts for tailored user experiences.
   ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/2924a7d3-d207-41b9-8ecd-722dc5bd9b6a) ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/7bcc7e00-8c7c-4be5-8154-1f7e1f7e1aef)
 * **Responsive Design:** Optimized for both desktop and mobile devices.
+  ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/a196567f-7cc7-4772-ad4f-fe1d377e354c)
+
 * **Appointment Booking:** Easily schedule appointments with expert doctors and specialists.
-  
+  ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/ee01c089-9575-4e06-ab92-5c5e69c9dbe4)
+
 * **AI Healthcare chatbot:** Receive recommendations and suggestions for general health queries based on user data.
+  ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/027d2e96-8127-4e8d-b320-4b9b9039d34b)
+
 * **Multiple Services:** Access facilities like lab testing and speciality care like expertadvise and recommendations in cardiology, orthopedics, dentistry, and general healthcare.
+  ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/3c8b7538-9607-49ae-855e-bab569080d88)
+
 * **Integrated Platform:** Streamlined solution addressing a wide range of health concerns efficiently.
 ___
 ### Web Technologies used:
