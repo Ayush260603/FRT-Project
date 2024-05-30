@@ -29,14 +29,14 @@ ___
 Welcome to MedixSphere : One portal for Holistic Health. It is a healthcare web app where patients can book appointments with expert doctors across various specialties like cardiology, orthopedics, dentistry, and general healthcare. Users can register, log in, and create personalized accounts. An integrated AI chatbot addresses general health queries, providing recommendations based on the user's condition and data. This all-in-one platform streamlines patient interactions and care management.
 ___
 ### Features and Functionalities:
-* Patient Registration and Login: Create and manage personalized accounts for tailored user experiences.
-  ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/2924a7d3-d207-41b9-8ecd-722dc5bd9b6a)
-
-* Responsive Design: Optimized for both desktop and mobile devices.
-* Appointment Booking: Easily schedule appointments with expert doctors and specialists.
-* AI Healthcare chatbot: Receive recommendations and suggestions for general health queries based on user data.
-* Multiple Services: Access facilities like lab testing and speciality care like expertadvise and recommendations in cardiology, orthopedics, dentistry, and general healthcare.
-* Integrated Platform: Streamlined solution addressing a wide range of health concerns efficiently.
+* **Patient Registration and Login:** Create and manage personalized accounts for tailored user experiences.
+  ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/2924a7d3-d207-41b9-8ecd-722dc5bd9b6a) ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/7bcc7e00-8c7c-4be5-8154-1f7e1f7e1aef)
+* **Responsive Design:** Optimized for both desktop and mobile devices.
+* **Appointment Booking:** Easily schedule appointments with expert doctors and specialists.
+  
+* **AI Healthcare chatbot:** Receive recommendations and suggestions for general health queries based on user data.
+* **Multiple Services:** Access facilities like lab testing and speciality care like expertadvise and recommendations in cardiology, orthopedics, dentistry, and general healthcare.
+* **Integrated Platform:** Streamlined solution addressing a wide range of health concerns efficiently.
 ___
 ### Web Technologies used:
 * HTML
