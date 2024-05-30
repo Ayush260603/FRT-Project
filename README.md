@@ -29,12 +29,14 @@ ___
 Welcome to MedixSphere : One portal for Holistic Health. It is a healthcare web app where patients can book appointments with expert doctors across various specialties like cardiology, orthopedics, dentistry, and general healthcare. Users can register, log in, and create personalized accounts. An integrated AI chatbot addresses general health queries, providing recommendations based on the user's condition and data. This all-in-one platform streamlines patient interactions and care management.
 ___
 ### Features and Functionalities:
-* Patient Management: Record and manage patient details securely.
-* userfriendly Interface: a clean and simple UI.Screenshot 2024-05-25 at 12 00 22 AM
-* Responsive Design: Optimized for both desktop and mobile devices.Screenshot 2024-05-25 at 12 15 25 PM
-* graphical visuals: has many graphical and visual innovative effects.
-* AI Healthcare chatbot : GIves you proper healt care advices bu just giving symptomes.
-* User Authentication: Secure login and user management system.
+* Patient Registration and Login: Create and manage personalized accounts for tailored user experiences.
+  ![image](https://github.com/Ayush260603/FRT-Project/assets/114318642/2924a7d3-d207-41b9-8ecd-722dc5bd9b6a)
+
+* Responsive Design: Optimized for both desktop and mobile devices.
+* Appointment Booking: Easily schedule appointments with expert doctors and specialists.
+* AI Healthcare chatbot: Receive recommendations and suggestions for general health queries based on user data.
+* Multiple Services: Access facilities like lab testing and speciality care like expertadvise and recommendations in cardiology, orthopedics, dentistry, and general healthcare.
+* Integrated Platform: Streamlined solution addressing a wide range of health concerns efficiently.
 ___
 ### Web Technologies used:
 * HTML
