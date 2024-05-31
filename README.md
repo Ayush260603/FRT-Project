@@ -5,7 +5,7 @@
 
 _this web application is based on healthcare and it is developed for accomplishment of future ready talent internship program launched by Microsoft, Future Skills Prime, Zuno by foundit & Github._
 * project link - https://witty-beach-0dbee1100.5.azurestaticapps.net
-* project demo video link -
+* project demo video link - https://youtu.be/VMB36i5z730
 ___  
 ## Azure core technologies used for project
 
